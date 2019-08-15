@@ -1,0 +1,51 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "sjl",
+    "packageName": "com.juliusbaer.sjl",
+    "packageFolder": "com/juliusbaer/sjl",
+    "serverPort": 8081,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "cucumber"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "M2M2NjRjNjg4OGMzNTdkOWE2NzVjOGM2Njc0N2E3MDVmZDdiYWE3MThjYjQ2NGY0YmRmODFiYzc5MmIxNTYxYTIxYjk2NjE3YWRiMjM1NWE4ZmVhYWNhYWIyMGU2NTk2OTNlMjMyOTQ5NjZjYWFiYjFhNGJhN2EyOGVjMDMxMTk=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "stephenlynch",
+  "repository-name": "ContentViewer"
+}
